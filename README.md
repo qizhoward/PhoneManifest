@@ -3,7 +3,7 @@
 
 AndroidManifest
 
-      -----</br>
+      -----
         |
         |-----
         |  |
