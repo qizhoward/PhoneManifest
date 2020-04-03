@@ -4,11 +4,11 @@
 AndroidManifest
 
       -----</br>
-        |</br>
-        |-----</br>
-        |  |</br>
-        |-----AndroidManifest</br>
-        | <!-- To auto-complete the email text field in the login form with the user's emails -->
+        |
+        |-----
+        |  |
+           |-----AndroidManifest
+           | <!-- To auto-complete the email text field in the login form with the user's emails -->
             <uses-permission android:name="android.permission.GET_ACCOUNTS" />
             <uses-permission android:name="android.permission.READ_PROFILE" />
             <uses-permission android:name="android.permission.READ_CONTACTS" />
